@@ -12,7 +12,7 @@
                       "expectedTime": "01 Jan 2019",
                       "workLocation": "121/137 Le Loi",
                       "workLocationMap": "10.772537, 106.699645",
-                      "contact": "Tam, +840101010101"
+                      "contact": "Tam"
                     },
                     {
                       "id": "2",
@@ -21,7 +21,7 @@
                       "expectedTime": "02 Jan 2019",
                       "workLocation": "122/137 Le Loi",
                       "workLocationMap": "10.772537, 106.699645",
-                      "contact": "Tam2, +840101010101"
+                      "contact": "Tam2"
                     },
                     {
                       "id": "3",
@@ -30,7 +30,7 @@
                       "expectedTime": "03 Jan 2019",
                       "workLocation": "123/137 Le Loi",
                       "workLocationMap": "10.772537, 106.699645",
-                      "contact": "Tam3, +840101010101"
+                      "contact": "Tam3"
                     }
                   ]
   }
