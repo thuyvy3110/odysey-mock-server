@@ -1,16 +1,37 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+
+  "server" : [{"id": "1"}],
+
+  "sub" :
+  {
+      "workList": [
+                    {
+                      "id": "1",
+                      "name": "Tuan",
+                      "level": "11",
+                      "expectedTime": "01 Jan 2019",
+                      "workLocation": "121/137 Le Loi",
+                      "workLocationMap": "10.772537, 106.699645",
+                      "contact": "Tam, +840101010101"
+                    },
+                    {
+                      "id": "2",
+                      "name": "Tuan2",
+                      "level": "12",
+                      "expectedTime": "02 Jan 2019",
+                      "workLocation": "122/137 Le Loi",
+                      "workLocationMap": "10.772537, 106.699645",
+                      "contact": "Tam2, +840101010101"
+                    },
+                    {
+                      "id": "3",
+                      "name": "Tuan3",
+                      "level": "13",
+                      "expectedTime": "03 Jan 2019",
+                      "workLocation": "123/137 Le Loi",
+                      "workLocationMap": "10.772537, 106.699645",
+                      "contact": "Tam3, +840101010101"
+                    }
+                  ]
+  }
 }
