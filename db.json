@@ -1,7 +1,23 @@
 {
 
   "server" : [{"id": "1"}],
-
+  "login": [
+		{
+			"username": "admin",
+			"password": "123",
+			"role": 0
+		},
+		{
+			"username": "user",
+			"password": "123",
+			"role": 1
+		},
+		{
+			"username": "customer",
+			"password": "123",
+			"role": 2
+		}
+  ],
   "sub" :
   {
       "workList": [
